@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal
 
-<!--
-**KunalSagar0615/KunalSagar0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer \| Problem Solver \| Continuous Learner**
 
-Here are some ideas to get you started:
+I love building full-stack applications, designing clean UIs, and
+writing efficient backend logic.\
+Currently improving my DSA skills and exploring advanced database
+concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## 🚀 Tech Stack
+
+### **Frontend**
+
+-   HTML\
+-   CSS\
+-   JavaScript\
+-   React\
+-   TailwindCSS
+
+### **Backend**
+
+-   Java\
+-   Python\
+-   C
+
+### **Database**
+
+-   SQL\
+-   DBMS\
+-   ADBMS (Advanced DBMS)
+
+------------------------------------------------------------------------
+
+## 💻 What I'm Working On
+
+-   Building full-stack projects from scratch\
+-   Practicing DSA for interviews\
+-   Exploring advanced React & backend concepts\
+-   Learning system design & database optimization
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=KunalSagar0615&show_icons=true&hide_border=true)\
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSagar0615&layout=compact&hide_border=true)
+
+------------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+-   GitHub: **[KunalSagar0615](https://github.com/KunalSagar0615)**\
+-   LinkedIn:
+    **[kunal-sagar](https://www.linkedin.com/in/kunal-sagar-9b8b25354/)**
