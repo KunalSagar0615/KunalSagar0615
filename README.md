@@ -18,6 +18,7 @@ concepts.
 -   JavaScript\
 -   React\
 -   TailwindCSS
+-   BootStrap
 
 ### **Backend**
 
@@ -28,8 +29,23 @@ concepts.
 ### **Database**
 
 -   SQL\
+-   MySQL\
+-   Postgress\
 -   DBMS\
 -   ADBMS (Advanced DBMS)
+
+### **Testing tools**
+
+-  Swagger\
+-  Postman
+
+### **Platforms**
+
+-  Sendgrid(MailAPI)\
+-  Netlify
+-  Github
+-  Supabase
+-  Railway
 
 ------------------------------------------------------------------------
 
