@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:A855F7&height=250&section=header&text=Kunal%20Sagar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20|%20Spring%20Boot%20|%20React%20|%20PostgreSQL&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:A855F7&height=250&section=header&text=Kunal%20Ananda%20Sagar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20|%20Spring%20Boot%20|%20React%20|%20PostgreSQL&descAlignY=60" />
 </p>
 
 # ⚡ About Me
@@ -10,7 +10,7 @@ public class KunalSagar {
 
     String name = "Kunal Sagar";
 
-    String education = "BCA (CGPA: 8.93)";
+    String education = "BCA with CGPA: 8.93";
 
     String location = "Pune, Maharashtra, India";
 
@@ -23,28 +23,10 @@ public class KunalSagar {
         "Problem Solving & DSA"
     };
 
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "Python",
-        "C"
-    };
+    String[] languages = {"Java", "JavaScript", "Python", "C"};
 
-    String[] stack = {
-        "Spring Boot",
-        "React",
-        "PostgreSQL",
-        "Hibernate",
-        "JPA",
-        "JWT",
-        "Tailwind CSS"
-    };
+    String[] stack = {"Spring Boot", "React", "PostgreSQL", "Hibernate", "JPA", "JWT", "Tailwind CSS"};
 
-    int leetcodeSolved = 150;
-
-    String currentProject = "SpeakMate AI Friend";
-
-    String goal = "Build scalable real-world applications 🚀";
 }
 ```
 
