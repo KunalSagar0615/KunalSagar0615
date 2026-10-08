@@ -47,7 +47,7 @@ public class KunalSagar {
 
 ## 🚀 Featured Projects
 
-### 🎤 SpeakMate AI Friend
+### 🎤 PrepFriend - AI Powered English & Interview Preparation Platform
 
 ### 🏦 Banking Web Application
 
